@@ -14,3 +14,4 @@ Running
 - 05/06/2014 Beijing
 - 07/06/2014 Beijing
 - 10/06/2014 Beijing
+- 13/06/2014 Beijing
